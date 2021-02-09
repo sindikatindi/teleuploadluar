@@ -25,11 +25,11 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2243600"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "428dc954f7849fa59e88bd751c32e5a0"
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -37,11 +37,11 @@
     },
     "GROUP_ID": {
       "description": "Your Group.",
-      "value": ""
+      "value": "-1001224600696"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "1059418185"
     }
   },
   "addons": [
